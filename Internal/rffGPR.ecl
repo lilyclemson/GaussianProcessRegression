@@ -1,3 +1,6 @@
+/*##############################################################################
+## HPCC SYSTEMS software Copyright (C) 2022 HPCC Systems.  All rights reserved.
+############################################################################## */
 import python3 as python;
 IMPORT ML_Core.Types as MTypes;
 IMPORT Std.System.Thorlib;

@@ -1,3 +1,6 @@
+/*##############################################################################
+## HPCC SYSTEMS software Copyright (C) 2022 HPCC Systems.  All rights reserved.
+############################################################################## */
 EXPORT Types := MODULE
   // init data structure for each session
   EXPORT initParams := RECORD
