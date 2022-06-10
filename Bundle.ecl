@@ -3,10 +3,10 @@
 ############################################################################## */
 IMPORT Std;
 EXPORT Bundle := MODULE(Std.BundleBase)
-  EXPORT Name := 'Gaussian Process Regression';
+  EXPORT Name := 'GaussianProcessRegression';
   EXPORT Description := 'RFF-accelerated Gaussian Process Regression';
   EXPORT Authors := ['HPCCSystems'];
-  EXPORT License := 'See LICENSE.TXT';
+  EXPORT License := 'http://www.apache.org/licenses/LICENSE-2.0';
   EXPORT Copyright := 'Copyright (C) 2022 HPCC Systems®';
   EXPORT DependsOn := ['ML_Core'];
   EXPORT Version := '1.0';
